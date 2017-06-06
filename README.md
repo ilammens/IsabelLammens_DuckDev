@@ -1,4 +1,3 @@
-# Isabel Lammens
 
 ## QA
 Hi! I'm Isabel! My role in this project was QA. I assured that every bug was correctly tracked  in order to keep them all into account when solving them, always tracking priority and severity levels.
