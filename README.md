@@ -10,3 +10,4 @@ Along with QA, I mainly worked on the character art for the game. The following 
 - Zelda mechanics design
 - Character animations, including all of the adult Link and part of Zelda
 - Map design, mainly the forest map
+
