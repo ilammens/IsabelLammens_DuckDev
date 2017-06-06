@@ -22,4 +22,3 @@ Along with QA, I mainly worked on the character art for the game. The following 
 
 ## Maps
 ![](http://subirimagen.me/uploads/20170606113113.png)
-![](http://subirimagen.me/uploads/20170606113224.png)
